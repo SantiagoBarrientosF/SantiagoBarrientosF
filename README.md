@@ -4,7 +4,7 @@ I'm a backend developer passionate about building robust and scalable web applic
 
 🔧 My skills include:
 - Backend development with Laravel, Django, and Flask  
-- API development and database management (MySQL, PostgreSQL)  
+- API development and database management (MySQL, PostgreSQL,MongoDB)  
 - Version control with Git and GitHub  
 - Basic frontend knowledge (CSS, JavaScript)
 
